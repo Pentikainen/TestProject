@@ -3,4 +3,13 @@ body {
 }
 div{
     background-color: blue;
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    color: brown;
+}
+ul {
+    list-style: none;
 }
