@@ -9,6 +9,9 @@ a {
     text-decoration: none;
     color: black;
 }
+
+
+/* navigation */
 a:hover {
     color: brown;
 }
@@ -17,9 +20,6 @@ ul {
     display: flex;
     justify-content: space-around;
 }
-
-/* navigation */
-
 /* navigation end */
 
 /* Footer */
